@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Mitr:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Mitr', sans-serif;
+}
+
+.welcomepage .carousel-inner {
+  height: 100vh;
+}
+
+.welcomepage .carousel-iten {
+  position: relative !important;
+}
+
+.welcomepage .overlay {
+  color: wheat;
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  height: 25vh;
+  width: 45vw;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.welcomepage .overlay h1 {
+  font-size: 3em;
+}
+
+.welcomepage .overlay .col-12 {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.welcomepage .overlay .button__enter {
+  width: 35%;
+  height: 3.5em;
+  border: solid 3px black;
+  border-radius: 15px;
+  background-color: #20c050;
+}
+
+.welcomepage .overlay .button__enter:hover {
+  width: 43%;
+  height: 3.7em;
+  -webkit-transition: all 0.7s;
+  transition: all 0.7s;
+  border: dotted 2px;
+  -webkit-box-shadow: 2px 2px rgba(68, 68, 68, 0.6);
+          box-shadow: 2px 2px rgba(68, 68, 68, 0.6);
+}
+
+.mainpage1 .carousel {
+  background: #EEE;
+}
+
+.mainpage1 .carousel img {
+  display: block;
+  height: 200px;
+}
+
+@media screen and (min-width: 768px) {
+  .mainpage1 .carousel img {
+    height: 50vh;
+    border: solid 3px whitesmoke;
+    border-radius: 15px;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    -webkit-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.6);
+            box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.6);
+  }
+}
+/*# sourceMappingURL=style.css.map */
