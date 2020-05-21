@@ -44,16 +44,16 @@
       <div class="carousel-item">
         <img src="img/1.jpg" class="d-block w-100" alt="...">
         <div class="overlay">
-        <div class="row">
-        <div class="col-12">
-          <h1>ผ่อนคลายแถมยังได้ความรู้</h1>
+          <div class="row">
+            <div class="col-12">
+              <h1>ผ่อนคลายแถมยังได้ความรู้</h1>
+            </div>
+            <div class="col-12">
+              <a href="http://localhost/tour/main.php">
+                <button type="button" class="button__enter">เข้าสู้เว็บไซต์</button>
+              </a>
+            </div>
           </div>
-          <div class="col-12">
-            <a href="http://localhost/tour/main.php">
-              <button type="button" class="button__enter">เข้าสู้เว็บไซต์</button>
-            </a>
-          </div>
-        </div>
         </div>
       </div>
     </div>
