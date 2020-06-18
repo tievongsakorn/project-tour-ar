@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background-color: #666666;
+  background-color: #dbdbdb;
   height: 100%;
 }
 
@@ -86,7 +86,7 @@ body {
 }
 
 .mainpage1 .carousel {
-  background: #666666;
+  background: #dbdbdb;
 }
 
 .mainpage1 .carousel img {
@@ -122,7 +122,7 @@ body {
 }
 
 .mainpage1 .overlay__main--photo h1 {
-  padding: 0.5em;
+  padding: 0.75em;
   width: 60vw;
 }
 
@@ -145,11 +145,40 @@ body {
   color: black;
 }
 
-.mainpage1 .box__advice :hover {
+.mainpage1 .box__advice h2:hover {
   color: brown;
   font-size: 2.3rem;
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
+}
+
+.mainpage1 .advice__name {
+  font-size: 1.5em;
+}
+
+.amphor__contain {
+  background: none;
+}
+
+.amphor {
+  margin-top: 5em;
+}
+
+.amphor .box__amphor {
+  padding: 0.5em;
+  background-color: white;
+  margin-bottom: 1em;
+  border: solid 2px black;
+  width: 100%;
+  height: 25vh;
+  border-radius: 15px;
+}
+
+.btn__viewmore {
+  height: 2em;
+  width: 7em;
+  background-color: black;
+  text-align: center;
 }
 
 .box__pic img {

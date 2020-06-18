@@ -9,7 +9,7 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    background-color: rgb(102, 102, 102);
+    background-color: rgb(219, 219, 219);
     height: 100%;
 }
 .container {
@@ -75,7 +75,7 @@ body {
         border: solid 2px white;
     }
     .carousel {
-        background: rgb(102, 102, 102);
+        background: rgb(219, 219, 219);
       } 
       .carousel img {
         display: block;
@@ -102,7 +102,7 @@ body {
         width: wrap;
         background-color: rgba( 0, 0, 0, 0.8);
         h1 {
-            padding: 0.5em;
+            padding: 0.75em;
             width: 60vw;
         }
       }
@@ -120,14 +120,40 @@ body {
           h2 {
               margin-top: 0.5em;
               color: black;
-          }:hover {
+          }
+          h2:hover {
               color: brown;
               font-size:2.3rem;
               transition: all 0.1s;
           }
+          
+      }
+      .advice__name {
+          font-size: 1.5em;
       }
 }
+.amphor__contain {
+    background: none;
+}
+.amphor {
+    margin-top: 5em;
+    .box__amphor {
+        padding: 0.5em;
+        background-color: white;
+        margin-bottom: 1em;
+        border: solid 2px black;
+        width: 100%;
+        height: 25vh;
+        border-radius: 15px;
+    }
+}
+.btn__viewmore {
+    height: 2em;
+    width: 7em;
+    background-color: black;
+    text-align: center;
 
+}
 .box__pic {
     img {
         width: 350px;

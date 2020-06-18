@@ -57,15 +57,9 @@
             <li class="nav-item my-auto">
                 <a class="nav-link navbar-brand mx-0 d-none d-md-inline" href=""><img src="img/brand.png" height="50px" srcset=""></a>
             </li>
-            <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          อำเภอต่างๆ
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">เมืองตาก</a>
-          <a class="dropdown-item" href="#">บ้านตาก</a>
-          <a class="dropdown-item" href="#">สามเงา</a>
-      </li>
+            <li class="nav-item">
+                <a class="nav-link" href="http://localhost/tour/amphor.php">อำเภอต่างๆ</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">ติดต่อเรา</a> 
             </li>
@@ -84,8 +78,7 @@
   <div class="overlay__main--photo">
     <div class="row">
       <div class="col-12 align-self-center">
-        <h1 align="center">จังหวัดตากด้วยเทคโนโลยีสามมิติ <br>
-        และเทคโนโลยีเสมือนจริง</h1>
+        <h1 align="center">การส่งเสริมการท่องเที่ยวจังหวัดตากโดยใช้เทคโนโลยีเสมือนจริง</h1>
       </div>
     </div>
   </div>
@@ -112,21 +105,40 @@
       </div>
     </div>
         <br>
+        <div class="row" >
+          <div class="col box__advice">
+            <a href="#"><h2>อำเภอเมืองตาก</h2></a>
+            <div class="ex_pic">
+              <img src="img/1.jpg" width="100%">
+            </div>
+            <div class="advice__name">
+                <h3>เขื่อนภูมิพล<h3>
+            </div>
+          </div>
+          <div class="col box__advice">
+            <a href="#"><h2>อำเภอบ้านตาก</h2></a>
+            <div class="ex_pic">
+              <img src="img/2.jpg" width="100%">
+            </div>
+            <div class="advice__name">
+                <h3>เขื่อนภูมิพล<h3>
+            </div>
+          </div>
+          <div class="col box__advice">
+            <a href="#"><h2>อำเภอสามเงา</h2></a>
+            <div class="ex_pic">
+              <img src="img/3.jpg" width="100%">
+            </div>
+            <div class="advice__name">
+                <h3>เขื่อนภูมิพล<h3>
+            </div>
+          </div>
+  </div>
         <iframe width="100%" height="550px" src="https://www.youtube.com/embed/swOudkf9SkA" frameborder="0" 
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </iframe>
   </div>
-  <div class="row" >
-          <div class="col box__advice">
-            <a href="#"><h2>อำเภอเมืองตาก</h2></a>
-          </div>
-          <div class="col box__advice">
-            <a href="#"><h2>อำเภอบ้านตาก</h2></a>
-          </div>
-          <div class="col box__advice">
-            <a href="#"><h2>อำเภอสามเงา</h2></a>
-          </div>
-  </div>
+ 
 </div>
 
 </div>

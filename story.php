@@ -9,37 +9,7 @@
     <title>เที่ยวตาก</title>
 </head>
 <body>
-<!-- <nav class="navbar  navbar-expand-xl navbar-dark bg-dark">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-    <a class="navbar-brand" href="#">brand</a>
-    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <li class="nav-item ">
-        <a class="nav-link" href="#">หน้าหลัก <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          อำเภอต่างๆ
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">เมืองตาก</a>
-          <a class="dropdown-item" href="#">บ้านตาก</a>
-          <a class="dropdown-item" href="#">สามเงา</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#" tabindex="-1" >ติดต่อเรา</a>
-      </li>
-      
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
-    </form>
-  </div>
-</nav> -->
-<!------------->
+
 <nav class="navbar fixed-top navbar-dark navbar-expand-md bg-dark justify-content-md-center justify-content-start">
     <a class="navbar-brand d-md-none d-inline" href=""></a>
     <button class="navbar-toggler ml-1" type="button" data-toggle="collapse" data-target="#collapsingNavbar2">
@@ -57,15 +27,9 @@
             <li class="nav-item my-auto">
                 <a class="nav-link navbar-brand mx-0 d-none d-md-inline" href=""><img src="img/brand.png" height="50px" srcset=""></a>
             </li>
-            <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          อำเภอต่างๆ
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">เมืองตาก</a>
-          <a class="dropdown-item" href="#">บ้านตาก</a>
-          <a class="dropdown-item" href="#">สามเงา</a>
-      </li>
+            <li class="nav-item">
+                <a class="nav-link" href="http://localhost/tour/amphor.php">อำเภอต่างๆ</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">ติดต่อเรา</a> 
             </li>
@@ -123,6 +87,8 @@
         และทรงยกทัพกลับราชอาณาจักรไทยโดยผ่านดินแดนเมืองตากเป็นแห่งแรก สมเด็จพระนารายณ์มหาราชทรงนำทัพไปตีหัวเมืองฝ่ายเหนือ 
         และได้สร้างวัดพระนารายณ์ที่เชิงสะพานกิตติขจรปัจจุบัน และสมเด็จพระเจ้าตากสินมหาราชเคยได้รับพระบรมราชโองการแต่งตั้งเป็นเจ้าเมืองตาก
          และเป็นผู้กอบกู้เอกราชของชาติไทยจากพม่า ครั้งที่ 2</p>
+         <div class="col-12"><h2>แผนที่สถานที่ท่องเที่ยวในจังหวัดตาก</h2></div>
+         <div class="col-12" align="center"><img src="img/qr.png" alt="" width="60%"></div>
         </div>
     </div>
     <p>
