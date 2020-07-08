@@ -82,8 +82,7 @@
       </div>
     </div>
   </div>
-    <!-- <img src="img/2.jpg" alt="" class="banner__pic"> -->
-        <div class="carousel" data-flickity='{"percentPosition": false ,"wrapAround": true , "autoPlay": 2500 ,"pageDots": false }'>
+  <div class="carousel" data-flickity='{"percentPosition": false ,"wrapAround": true , "autoPlay": 2500 ,"pageDots": false }'>
             <img src="img/1.jpg" alt="" />
             <img src="img/2.jpg" alt="" />
             <img src="img/3.jpg" alt="" />
@@ -91,56 +90,27 @@
             <img src="img/2.jpg" alt="" />
             <img src="img/3.jpg" alt="" />
         </div>
-        <div class="container">
-  <div class="container">
-    <div class="row" style="padding-top : 1em">
-      <div class="col-12 col-lg-6">
-          <img src="img/3.jpg" alt=""/>
-      </div>
-      <div class="col-12 col-lg-6">
-        <h1>จังหวัดตาก</h1>
-        <p>
-        "ตาก" ตั้งอยู่ภาคเหนือตอนล่างของประเทศ มีพื้นที่กว่า 16.4 หมื่น ตารางกิโลเมตร เป็นจังหวัดที่มีขนาดเป็นอันดับ 4 ของประเทศและเป็นอันดับ 2 ของภาคเหนือ ห่างจากกรุงเทพฯ เป็นระยะทาง 426 กิโลเมตร สภาพภูมิประเทศโดยทั่วไปของ จังหวัดตากเป็นภูเขา และป่าไม้ที่ยังคงความสมบูรณ์ของป่าและธรรมชาติ มี 5 อุทยาน มีเขตรักษาพันธุ์สัตว์ป่าอยู่ 5 แห่ง และป่าสงวนแห่งชาติ 15 ป่า ตลอดจนมีน้ำตกที่ นักท่องเที่ยวรักการผจญภัย และนิยมการล่องแก่งต้องมาเยือนสักครั้ง ทั่งน้ำตกทีลอซู และน้ำตกทีลอเร นอกจากความสวยงามตามธรรมชาติแล้ว ยังเป็นจังหวัดที่มีผลผลิตทางการเกษตรที่ขึ้นชื่อทั้งดอกไม้และผลไม้เมืองหนาว โดยเฉพาะทับทิมที่มีผลใหญ่หวานอร่อบ และกำลังได้รับความนิยมมาก
-        </p>
-      </div>
-    </div>
-        <br>
-        <div class="row" >
-          <div class="col box__advice">
-            <a href="#"><h2>อำเภอเมืองตาก</h2></a>
-            <div class="ex_pic">
-              <img src="img/1.jpg" width="100%">
-            </div>
-            <div class="advice__name">
-                <h3>เขื่อนภูมิพล<h3>
-            </div>
-          </div>
-          <div class="col box__advice">
-            <a href="#"><h2>อำเภอบ้านตาก</h2></a>
-            <div class="ex_pic">
-              <img src="img/2.jpg" width="100%">
-            </div>
-            <div class="advice__name">
-                <h3>เขื่อนภูมิพล<h3>
-            </div>
-          </div>
-          <div class="col box__advice">
-            <a href="#"><h2>อำเภอสามเงา</h2></a>
-            <div class="ex_pic">
-              <img src="img/3.jpg" width="100%">
-            </div>
-            <div class="advice__name">
-                <h3>เขื่อนภูมิพล<h3>
-            </div>
-          </div>
-  </div>
-        <iframe width="100%" height="550px" src="https://www.youtube.com/embed/swOudkf9SkA" frameborder="0" 
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-        </iframe>
-  </div>
+   
  
 </div>
+<div class="container">
+<h2>ติดต่อเรา</h2>
 
+    <div class="row">
+        <div class="col-6">
+            <h4>ผู้จัดทำ</h4>
+            <h5>นายรุ่ง หมูล้อม </h5>
+        </div>
+        <div class="col-6">
+            <h4>ช่องทางการติดต่อ</h4>
+            <h5>มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนาตาก</h5>
+        </div>
+    </div>
+    <div style="text-align:center; margin-top:2em; padding-bottom:2em;"> 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3817.47600033176!2d99.12203461486959!3d16.901796388371334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ddd760e394ca5b%3A0x5f2671dd97a763e6!2z4Lih4Lir4Liy4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4LmA4LiX4LiE4LmC4LiZ4LmC4Lil4Lii4Li14Lij4Liy4LiK4Lih4LiH4LiE4Lil4Lil4LmJ4Liy4LiZ4LiZ4LiyIOC4leC4suC4gQ!5e0!3m2!1sth!2sth!4v1593877469914!5m2!1sth!2sth" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        
+    </div>
+</div>
 </div>
 <div class="footer">
     <div class="container" style="background-color : black">

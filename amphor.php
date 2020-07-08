@@ -31,7 +31,7 @@
                 <a class="nav-link" href="http://localhost/tour/amphor.php">อำเภอต่างๆ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">ติดต่อเรา</a> 
+                <a class="nav-link" href="http://localhost/tour/contact.php">ติดต่อเรา</a> 
             </li>
         </ul>
         <!-- <ul class="nav navbar-nav flex-row justify-content-md-center justify-content-start flex-nowrap">
@@ -65,7 +65,7 @@
          
           <div class="col-8">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro ab tempora voluptate dolore ullam distinctio obcaecati reiciendis at, ex, laboriosam error rerum necessitatibus. Dicta provident facere quaerat amet repellat cupiditate quae aliquid, eum delectus at vel quo quod enim suscipit aperiam, culpa perspiciatis expedita impedit in adipisci. Rerum, modi ex.</p>
-            <a href="http://"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
+            <a href="http://localhost/tour/bantak.php"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
           </div>
           <div class="col-4">
           <h1>อำเภอบ้านตาก</h1>

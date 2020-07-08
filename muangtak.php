@@ -31,7 +31,7 @@
                 <a class="nav-link" href="http://localhost/tour/amphor.php">อำเภอต่างๆ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">ติดต่อเรา</a> 
+                <a class="nav-link" href="http://localhost/tour/contact.php">ติดต่อเรา</a> 
             </li>
         </ul>
         <!-- <ul class="nav navbar-nav flex-row justify-content-md-center justify-content-start flex-nowrap">
@@ -114,7 +114,7 @@
     <br>
     <h3>แผนที่การเดินทางระหว่าง <u>ศาลสมเด็จพระเจ้าตากสินมหาราช </u> กับ <u>กาดนั่งยองคลองย่าม</u> </h3>
     <br>
-    <img src="img/muangtak.png" alt="" width="90%">
+    <img src="img/muangtak.png" alt="" width="90%" style="margin-bottom: 2em;">
 </div>
   
 

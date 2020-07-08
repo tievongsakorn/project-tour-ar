@@ -31,7 +31,7 @@
                 <a class="nav-link" href="http://localhost/tour/amphor.php">อำเภอต่างๆ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">ติดต่อเรา</a> 
+                <a class="nav-link" href="http://localhost/tour/contact.php">ติดต่อเรา</a> 
             </li>
         </ul>
         <!-- <ul class="nav navbar-nav flex-row justify-content-md-center justify-content-start flex-nowrap">
