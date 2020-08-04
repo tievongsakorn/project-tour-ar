@@ -1,48 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-    <title>เที่ยวตาก</title>
-</head>
-<body>
-
-<nav class="navbar fixed-top navbar-dark navbar-expand-md bg-dark justify-content-md-center justify-content-start">
-    <a class="navbar-brand d-md-none d-inline" href=""></a>
-    <button class="navbar-toggler ml-1" type="button" data-toggle="collapse" data-target="#collapsingNavbar2">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <a class="nav-link" href="#_"><i class="fa fa-search mr-1"></i></a> 
-    <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
-        <ul class="navbar-nav mx-auto text-md-center text-left">
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost/tour/main.php">หน้าหลัก</a> 
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost/tour/story.php">ประวัติ</a>
-            </li>
-            <li class="nav-item my-auto">
-                <a class="nav-link navbar-brand mx-0 d-none d-md-inline" href=""><img src="img/brand.png" height="50px" srcset=""></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost/tour/amphor.php">อำเภอต่างๆ</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost/tour/contact.php">ติดต่อเรา</a> 
-            </li>
-        </ul>
-        <!-- <ul class="nav navbar-nav flex-row justify-content-md-center justify-content-start flex-nowrap">
-            <li class="nav-item"><a class="nav-link" href=""><i class="fa fa-facebook mr-1"></i></a> </li>
-            <li class="nav-item"><a class="nav-link" href=""><i class="fa fa-twitter"></i></a> </li>
-        </ul> -->
-    </div>
-</nav>
-
-<!---------------------------------------ส่วนเมนู-----------------------------------------------------> 
-
 
 <div class="container amphor__contain">
   <div class="row amphor">
@@ -54,8 +9,9 @@
             <img src="img/1.jpg" width="70%">
           </div>
           <div class="col-8">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro ab tempora voluptate dolore ullam distinctio obcaecati reiciendis at, ex, laboriosam error rerum necessitatibus. Dicta provident facere quaerat amet repellat cupiditate quae aliquid, eum delectus at vel quo quod enim suscipit aperiam, culpa perspiciatis expedita impedit in adipisci. Rerum, modi ex.</p>
-          <a href="http://localhost/tour/muangtak.php"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
+          <p>อำเภอเมืองตาก เป็นอำเภอในจังหวัดตาก ศูนย์กลางทางด้านคมนาคม และจุดเชื่อมต่อไปยังอำเภอแม่สอด ศูนย์กลางค้าชายแดนไทย-พม่า อำเภอเมืองตากเดิมชื่อ 
+          "เมืองระแหง" อดีตมีชาวมอญอาศัยอยู่มาก่อน ดังมีหลักฐานศิลปะมอญปรากฏอ.....</p>
+          <a href="?page=muangtak"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
           </div>
         </div>
       </div>
@@ -64,8 +20,10 @@
       <div class="row">
          
           <div class="col-8">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro ab tempora voluptate dolore ullam distinctio obcaecati reiciendis at, ex, laboriosam error rerum necessitatibus. Dicta provident facere quaerat amet repellat cupiditate quae aliquid, eum delectus at vel quo quod enim suscipit aperiam, culpa perspiciatis expedita impedit in adipisci. Rerum, modi ex.</p>
-            <a href="http://localhost/tour/bantak.php"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
+            <p>อำเภอบ้านตาก สันนิษฐานว่าคือตัวเมืองตากเดิม เป็นเมืองหน้าด่านสำหรับป้องกันข้าศึกศัตรูมาแต่ดึกดำบรรพ์ ตั้งอยู่บนดอยเล็กๆ 
+            ลูกหนึ่ง ปัจจุบันคือบ้านท่าพระธาตุ หมู่ที่ 3 ตำบลเกาะตะเภา อยู่ทางทิศตะวันตกของแม่น้ำปิง ต่อมาสมัยสมเด็จพระมหาธรรมราชา 
+            แห่งกรุงศรีอยุธยา ได้ย้ายเมืองตากจากที่เดิมมาอยู่ที่ตำบลป่ามะม่วง .....</p>
+            <a href="?page=bantak"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
           </div>
           <div class="col-4">
           <h1>อำเภอบ้านตาก</h1>
@@ -81,59 +39,15 @@
             <img src="img/3.jpg" width="70%">
           </div>
           <div class="col-8">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro ab tempora voluptate dolore ullam distinctio obcaecati reiciendis at, ex, laboriosam error rerum necessitatibus. Dicta provident facere quaerat amet repellat cupiditate quae aliquid, eum delectus at vel quo quod enim suscipit aperiam, culpa perspiciatis expedita impedit in adipisci. Rerum, modi ex.</p>
-            <a href="http://"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
+            <p>เดิมชื่อ กิ่งอำเภอท่าปุย แล้วได้เปลี่ยนเป็น กิ่งอำเภอสามเงา ในปี พ.ศ. 2460 ต่อมาก็ยกฐานะเป็น อำเภอสามเงา ในปี พ.ศ. 2501....</p>
+            <a href="?page=samngav"><div class="btn__viewmore">ดูเพิ่มเติม</div></a>
           </div>
         </div>
 
       </div>
-      
 
     </div>
+    
 </div>
   
 
-
-<div class="footer">
-    <div class="container" style="background-color : black">
-      <div class="row">
-        <div class="col-6">
-          <div class="row">
-            <div class="col-3"><a href="#">เมนนูหลัก</a></div>
-            <div class="col-3"><a href="#">อำเภอต่างๆ</a> </div>
-            <div class="col-3"><a href="#">ติดต่อเรา</a></div>
-          </div>
-        </div>
-        <div class="col-6 contact">
-
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12" align="center">
-          <hr>
-            <p class="coppyright">© Copyright Vongsakorn. Since 2020 </p>
-        </div>
-      </div>
-    </div>
-</div>
-</body>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-<script src="jquery.min.js"></script>
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-<script>
-    var elem = document.querySelector('.main-carousel');
-    var flkty = new Flickity( elem, {
-  // options
-  cellAlign: 'center',
-  contain: true ,
-});
-
-// element argument can be a selector string
-//   for an individual element
-var flkty = new Flickity( '.main-carousel', {
-  // options
-});
-</script>
-</html>
