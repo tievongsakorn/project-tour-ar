@@ -163,7 +163,14 @@
                 <h3>เขื่อนภูมิพล<h3>
             </div>
           </div> -->
-
+         <div class="col-12" align=center>
+         <h2>เส้นทางการท่องเที่ยวในจังหวัดตาก</h2>
+            <div class="col-7">
+            <hr>
+            </div>
+             <iframe src="https://www.google.com/maps/d/embed?mid=1PMy31GE8SzjTHEaOtsVcDMB69ZkKszJE" width="640" height="480"></iframe>
+             <hr>
+         </div>
         <iframe width="100%" height="550px" src="https://www.youtube.com/embed/swOudkf9SkA" frameborder="0" 
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </iframe>
