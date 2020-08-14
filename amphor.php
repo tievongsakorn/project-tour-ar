@@ -1,3 +1,4 @@
+
 <div class="container" style="margin-top:5em">
     <div class="row justify-content-md-center">
         <div class="col-3 box__amp">
@@ -13,38 +14,33 @@
         <img src="img/3.jpg" width="100%">
         </div>
         <div class="col-3 box__amp">
-        <a href="?page=muangtak"><h2>อำเภอแม่ระมาด</h2></a>
+        <a href="?page=maeramad"><h2>อำเภอแม่ระมาด</h2></a>
         <img src="img/2.jpg" width="100%">
         </div>
         <div class="col-3 box__amp">
-        <a href="?page=muangtak"><h2>อำเภอท่าสองยาง</h2></a>
+        <a href="?page=thasongyang"><h2>อำเภอท่าสองยาง</h2></a>
         <img src="img/3.jpg" width="100%">
         </div>
         <div class="col-3 box__amp">
-        <a href="?page=muangtak"> <h2>อำเภอแม่สอด</h2></a>
+        <a href="?page=maesod"> <h2>อำเภอแม่สอด</h2></a>
         <img src="img/1.jpg" width="100%">
         </div>
         <div class="col-3 box__amp">
-        <a href="?page=muangtak"><h2>อำเภอพบพระ</h2></a>
+        <a href="?page=phobpra"><h2>อำเภอพบพระ</h2></a>
         <img src="img/3.jpg" width="100%">
         </div>
         <div class="col-3 box__amp">
-        <a href="?page=muangtak"><h2>อำเภออุ้มผาง</h2></a>
+        <a href="?page=oumphang"><h2>อำเภออุ้มผาง</h2></a>
         <img src="img/1.jpg" width="100%">
         </div>
         <div class="col-3 box__amp">
-        <a href="?page=muangtak/"><h2>อำเภอวังเจ้า</h2></a>
+        <a href="?page=wangchaw"><h2>อำเภอวังเจ้า</h2></a>
         <img src="img/2.jpg" width="100%">
         </div>
     </div>
     
 
-   
-         <div class="col-12" align="center">
-            <h2>แผนที่สถานที่ท่องเที่ยวในจังหวัดตาก</h2>
-            <iframe src="https://www.google.com/maps/d/embed?mid=1PMy31GE8SzjTHEaOtsVcDMB69ZkKszJE" width="640" height="480"></iframe>
-                <!-- <img src="img/qr.png" alt="" width="50%"> -->
-            </div>
+
          </div>
 
 

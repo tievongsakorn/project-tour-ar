@@ -26,6 +26,9 @@ body {
 //     margin-left:-1.9em ;  
 //     margin-right:-15px ; 
 // }
+a:link {
+    text-decoration: none;
+  }
 .welcomepage {
 
     .carousel-inner{
@@ -136,6 +139,19 @@ body {
       .advice__name {
           font-size: 1.5em;
       }
+     
+}
+
+.box__link--advice {
+    color: black;
+}
+.box__link--advice:hover {
+    color: darkgoldenrod;
+    transition: ease-in-out 0.3s;
+    img {
+        opacity: 0.8;
+        transition: all 0.3s;
+    }
 }
 .amphor__contain {
     background: none;

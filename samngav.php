@@ -1,6 +1,34 @@
 
 <div class="container" style="margin-top:5em; text-align:center;">
     <br>
+    <h1>อำเภอสามเงา</h1>
+    <br>
+    <hr>
+    <div class="row">
+        <div class="col-5">
+        <img src="img/kheanbhum.jpg" alt=""  width="100%"/>
+        </div>
+        <div class="col-7" align="left">
+        <h2>ข้อมูลอำเภอสามเงา</h2>
+        <p>
+        เดิมชื่อ กิ่งอำเภอท่าปุย แล้วได้เปลี่ยนเป็น กิ่งอำเภอสามเงา ในปี พ.ศ. 2460 ต่อมาก็ยกฐานะเป็น อำเภอสามเงา ในปี พ.ศ. 2501
+    </p>
+        </div>
+    </div>
+    
+    <br>
+    <div class="row">
+        <div class="col">
+        
+        </div>
+    </div>
+    </div>
+
+
+
+<!-- 
+<div class="container" style="margin-top:5em; text-align:center;">
+    <br>
     <h1>สถานที่ท่องเที่ยวในเขต อำเภอสามเงา</h1>
     <br>
     <hr>
@@ -70,4 +98,4 @@
     <br>
     <img src="img/samngav.png" alt="" width="90%" style="margin-bottom: 2em;">
 </div>
-  
+   -->

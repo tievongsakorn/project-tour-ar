@@ -28,6 +28,10 @@ body {
      object-fit: cover;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 .welcomepage .carousel-inner {
   height: 100vh;
 }
@@ -155,6 +159,22 @@ body {
 
 .mainpage1 .advice__name {
   font-size: 1.5em;
+}
+
+.box__link--advice {
+  color: black;
+}
+
+.box__link--advice:hover {
+  color: darkgoldenrod;
+  -webkit-transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.3s;
+}
+
+.box__link--advice:hover img {
+  opacity: 0.8;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 .amphor__contain {

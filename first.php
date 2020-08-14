@@ -8,174 +8,130 @@
   </div>
     <!-- <img src="img/2.jpg" alt="" class="banner__pic"> -->
         <div class="carousel" data-flickity='{"percentPosition": false ,"wrapAround": true , "autoPlay": 2500 ,"pageDots": false }'>
-            <img src="img/1.jpg" alt="" />
-            <img src="img/2.jpg" alt="" />
-            <img src="img/3.jpg" alt="" />
-            <img src="img/1.jpg" alt="" />
-            <img src="img/2.jpg" alt="" />
-            <img src="img/3.jpg" alt="" />
+            <img src="img/san.JPG" alt="" />
+            <img src="img/gad.jpg" alt="" />
+            <img src="img/watpha.jpg" alt="" />
+            <img src="img/DamBhom.jpg" alt="" />
+            <img src="img/maihin.jpg" alt="" />
+            <img src="img/pratadbantak.JPG" alt="" />
         </div>
-        <div class="container">
-  <div class="container-fluid">
-    <div class="row" style="padding-top : 1em">
-      <div class="col-12 col-lg-6">
-          <img src="img/3.jpg" width="100%" alt=""/>
-      </div>
-      <div class="col-12 col-lg-6">
-        <h1>จังหวัดตาก</h1>
-        <p>
-        "ตาก" ตั้งอยู่ภาคเหนือตอนล่างของประเทศ มีพื้นที่กว่า 16.4 หมื่น ตารางกิโลเมตร เป็นจังหวัดที่มีขนาดเป็นอันดับ 4 ของประเทศและเป็นอันดับ 2 ของภาคเหนือ ห่างจากกรุงเทพฯ เป็นระยะทาง 426 กิโลเมตร สภาพภูมิประเทศโดยทั่วไปของ จังหวัดตากเป็นภูเขา และป่าไม้ที่ยังคงความสมบูรณ์ของป่าและธรรมชาติ มี 5 อุทยาน มีเขตรักษาพันธุ์สัตว์ป่าอยู่ 5 แห่ง และป่าสงวนแห่งชาติ 15 ป่า ตลอดจนมีน้ำตกที่ นักท่องเที่ยวรักการผจญภัย และนิยมการล่องแก่งต้องมาเยือนสักครั้ง ทั่งน้ำตกทีลอซู และน้ำตกทีลอเร นอกจากความสวยงามตามธรรมชาติแล้ว ยังเป็นจังหวัดที่มีผลผลิตทางการเกษตรที่ขึ้นชื่อทั้งดอกไม้และผลไม้เมืองหนาว โดยเฉพาะทับทิมที่มีผลใหญ่หวานอร่อบ และกำลังได้รับความนิยมมาก
-        </p>
-      </div>
-    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12" align=center>
         <br>
-        <div class="owl-carousel">
-          <div> 
-              <div class="box__advice">
-                  <a href="http://localhost/tour/muangtak.php"><h2>อำเภอเมืองตาก</h2></a>
-                    <div class="ex_pic">
-                      <img src="img/1.jpg" width="100%">
-                    </div>
-                    <div class="advice__name">
-                        <h3>เขื่อนภูมิพล<h3>
-                    </div>
-              </div>
-          </div>
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/bantak.php"><h2>อำเภอบ้านตาก</h2></a>
-                <div class="ex_pic">
-                  <img src="img/2.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-          
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/samngav.php"><h2>อำเภอสามเงา</h2></a>
-                <div class="ex_pic">
-                  <img src="img/3.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/maeramad.php"><h2>อำเภอแม่ระมาด</h2></a>
-                <div class="ex_pic">
-                  <img src="img/1.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/thasong.php"><h2>อำเภอท่าสองยาง</h2></a>
-                <div class="ex_pic">
-                  <img src="img/2.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/maesod.php"><h2>อำเภอแม่สอด</h2></a>
-                <div class="ex_pic">
-                  <img src="img/3.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/phobpra.php"><h2>อำเภอพบพระ</h2></a>
-                <div class="ex_pic">
-                  <img src="img/1.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-          <div class="box__advice">
-            <div> 
-              <a href="http://localhost/tour/oumphang.php"><h2>อำเภออุ้มผาง</h2></a>
-                <div class="ex_pic">
-                  <img src="img/2.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-              </div>
-          </div>
-
-         <div class="box__advice">
-            <a href="http://localhost/tour/wangchaw.php"><h2>อำเภอวังเจ้า</h2></a>
-                <div class="ex_pic">
-                  <img src="img/3.jpg" width="100%">
-                </div>
-                <div class="advice__name">
-                    <h3>เขื่อนภูมิพล<h3>
-                </div>
-           </div>
-         </div>
-         
-         </div>
-
-         
-         
-        <!-- <div class="row" >
-          <div class="col-sm-12 col-md-4 box__advice">
-            <a href="http://localhost/tour/muangtak.php"><h2>อำเภอเมืองตาก</h2></a>
-            <div class="ex_pic">
-              <img src="img/1.jpg" width="100%">
-            </div>
-            <div class="advice__name">
-                <h3>เขื่อนภูมิพล<h3>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-4 box__advice">
-            <a href="http://localhost/tour/bantak.php"><h2>อำเภอบ้านตาก</h2></a>
-            <div class="ex_pic">
-              <img src="img/2.jpg" width="100%">
-            </div>
-            <div class="advice__name">
-                <h3>เขื่อนภูมิพล<h3>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-4 box__advice">
-            <a href="http://localhost/tour/samngav.php"><h2>อำเภอสามเงา</h2></a>
-            <div class="ex_pic">
-              <img src="img/3.jpg" width="100%">
-            </div>
-            <div class="advice__name">
-                <h3>เขื่อนภูมิพล<h3>
-            </div>
-          </div> -->
-         <div class="col-12" align=center>
-         <h2>เส้นทางการท่องเที่ยวในจังหวัดตาก</h2>
+         <h1>เส้นทางการท่องเที่ยวในจังหวัดตาก</h1>
             <div class="col-7">
             <hr>
             </div>
-             <iframe src="https://www.google.com/maps/d/embed?mid=1PMy31GE8SzjTHEaOtsVcDMB69ZkKszJE" width="640" height="480"></iframe>
+             <iframe src="https://www.google.com/maps/d/embed?mid=1PMy31GE8SzjTHEaOtsVcDMB69ZkKszJE" width="100%" height="380"></iframe>
              <hr>
-         </div>
-        <iframe width="100%" height="550px" src="https://www.youtube.com/embed/swOudkf9SkA" frameborder="0" 
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-        </iframe>
-  </div>
- 
-</div>
+        </div>
+        <div class="col-12" align="center">
+        <br><br>
+          <h1>สถานที่ท่องเที่ยวด้วยเทคโนโลยีเสมือนจริง</h1>
+          <br><br>
+        </div>
+        <a href="?page=santak" class="box__link--advice">
+        <div class="col-12">
+              <div class="row">
+                <div class="col-2">
+                  <img src="img/san.JPG" width="100%"/>
+                </div>
+                <div class="col-10">
+                  <h2>ศาลสมเด็จพระเจ้าตากสินมหาราช</h2>
+                  <p>ศาลสมเด็จพระเจ้าตากสินมหาราช ตั้งอยู่ที่ถนนจรดวิถีถ่อง ใกล้กับสำนักงานการท่องเที่ยวแห่งประเทศไทย ศาลนี้แต่เดิมอยู่ที่วัดดอยเขาแก้วฝั่งตรงข้ามกับตัวเมือง ต่อมาในปี พ.ศ. 2490 ชาวเมืองเห็นว่าศาลนั้นไม่สมพระเกียรติ จึงช่วยกันสร้างศาลขึ้นใหม่พร้อมกับให้กรมศิลปากรหล่อพระบรมรูปสมเด็จพระเจ้าตากสินมหาราชขนาดใหญ่ กว่าพระองค์จริงเล็กน้อย ในพระอิริยาบถที่กำลังประทับอยู่บนราชอาสน์ มีพระแสงดาบพาดอยู่ที่พระเพลา ที่ฐานพระบรมรูปมีคำจารึกว่า พระเจ้าตากสินกรุงธนบุรี ทรงพระราชสมภพเมื่อ พ.ศ. 2277 สวรรคต พ.ศ. 2325 รวม 48 พรรษา ศาลนี้เป็นที่เคารพสักการะของประชาชนทั่วไป</p>
+                  <hr>
+                </div>
+              </div>
+        </div>
+        </a>
+        <a href="http://" class="box__link--advice">
+        <div class="col-12">
+              <div class="row">
+                <div class="col-2">
+                  <img src="img/gad.jpg" width="100%"/>
+                </div>
+                <div class="col-10">
+                  <h2>กาดนั่งยองคล้องย่าม</h2>
+                  <p>กาดนั่งยอง คล้องย่าม เกิดจากแนวคิดของท่านผู้ว่าราชการจังหวัดตาก (นายสมชัยฐ์ หทยะตันย์ติ) 
+                    เพื่อคืนวัฒนธรรม คืนวิถีชีวิตให้เมืองตากกลับไปสู่ยุคเดิม ให้เยาวชนคนรุ่นใหม่ได้เรียนรู้ 
+                    และรู้จักการใช้ชีวิตของคนเมืองตาก เป็นถนนสายวัฒนธรรมที่ช่วยอนุรักษ์ฟื้นฟู วัฒนธรรมประเพณีท้องถิ่น 
+                    สร้างความภาคภูมิใจในวัฒนธรรม และภูมิปัญญาของคนเมืองตาก อีกทั้งยังเป็นการสร้างรายได้ให้กับชุมชน 
+                    และส่งเสริมการท่องเที่ยวภายในจังหวัด จากแนวคิดริเริ่มจนถึงผลตอบรับในปัจจุบันสะท้อนให้เห็นได้ว่า 
+                    "กาดนั่งยอง คล้องย่าม"
+                  </p>
+                   <hr>
+                </div>
+              </div>
+        </div>
+      </a>
+      <a href="#" class="box__link--advice">
+        <div class="col-12">
+              <div class="row">
+                <div class="col-2">
+                  <img src="img/pratadbantak.JPG" width="100%"/>
+                </div>
+                <div class="col-10">
+                  <h2>วัดพระบรมธาตุบ้านตาก</h2>
+                  <p>วัดพระบรมธาตุบ้านตาก อยู่ที่ ต.เกาะตะเภา อ.บ้านตาก จ.ตาก ฝั่งตะวันตกของแม่น้ำปิง เดิมวัดแห่งนี้เป็นเมืองตากเก่า ก่อนที่จะมีการย้ายตัวเมืองไปอยู่ที่ ต.ระแหง ตัวเมืองตากในปัจจุบัน ห่างไปทางทิศใต้ประมาณ ๓๐ กิโลเมตร อันมีประวัติยาวนานตั้งแต่สมัย พระนางจามเทวี ล่องเรือเสด็จไปเมืองลำพูน หยุดพักบริเวณ
+ณแห่งนี้ พบว่าเป็นเมืองร้าง จึงได้สั่งให้มีการฟื้นฟูบูรณะเมืองแห่งนี้ จนกลายเป็นชุมชนเมืองตาก
+วัดพระบรมธาตุบ้านตาก ยังปรากฏในศิลาจารึของพ่อขุนรามคำแหง ที่ทรงกระทำยุทธหัตถี ชนะศึกเจ้าเมืองฉอดบนเนินเขาใกล้กับพระบรมธาตุ ประมาณ ๕๐๐ เมตร
+ตามตำนานพระเจ้าเลียบโลก.....</p>
+                  <hr>
+                </div>
+              </div>
+        </div>
+      </a>
+      <a href="http://" class="box__link--advice">
+        <div class="col-12">
+              <div class="row">
+                <div class="col-2">
+                  <img src="img/maihin.jpg" width="100%"/>
+                </div>
+                <div class="col-10">
+                  <h2>อุทยานแห่งชาติไม้กลายเป็นหิน</h2>
+                  <p>
 
+                  อุทยานไม้กลายเป็นหิน ขุดพบครั้งแรกเมื่อเดือนพฤศจิกายน 2546 โดยการนำของ นายวชิระ ม่วงแก้ว ป่าไม้เขตตาก ได้ทำการขุดเปิดหน้าดินจนสุดลำต้นเมื่อปี 2548ความโตเส้นผ่าศูนย์กลางเฉลี่ย 1.80 ม. ยาว 72.22 ม อายุประมาณ 120,000 ปี ภายในมีการจัดแสดงไม้กลายเป็นหินที่ขุดพบมากมาย ซึ่งบางต้นยังมีลักษณะที่ค่อนข้างรูปร่างสมบูรณ์
+
+                  </p>
+                 <hr>
+                </div>
+              </div>
+        </div>
+        </a>
+        <a href="http://" class="box__link--advice">
+        <div class="col-12">
+              <div class="row">
+                <div class="col-2">
+                  <img src="img/DamBhom.jpg" width="100%"/>
+                </div>
+                <div class="col-10">
+                  <h2>เขื่อนภูมิพล</h2>
+                  <p>เขื่อนภูมิพลเป็นเขื่อนคอนกรีตโค้งและเป็น เขื่อนอเนกประสงค์แห่งแรกของประเทศไทย เดิมชื่อเขื่อนยันฮี ต่อมาเมื่อวันที่ ๒๕ กรกฏาคม ๒๕๐๐ พระบาทสมเด็จพระเจ้าอยู่หัวได้พระราชทาน พระปรมาภิไธย ให้เป็นชื่อเขื่อนว่า เขื่อนภูมิพล ลักษณะของเขื่อน เป็นเขื่อนคอนกรีตโค้งเพียงแห่งเดียวในประเทศไทย และ เอเชียอาคเนย์ และเป็นอันดับ ๘ ของโลกสร้างปิดกั้น ลำน้ำปิง ที่ บริเวณเขาแก้ว อำเภอสามเงา จังหวัดตาก อ่างเก็บน้ำสามารถรองรับน้ำได้สูงสุด ๑๓,๔๖๒ ล้านลูกบาศก์เมตร</p>
+                  <hr>
+                </div>
+              </div>
+        </div>
+      </a>
+      <a href="http://" class="box__link--advice">
+        <div class="col-12">
+              <div class="row">
+                <div class="col-2">
+                  <img src="img/watpha.jpg" width="100%"/>
+                </div>
+                <div class="col-10">
+                  <h2>วัดป่าพระสามเงา</h2>
+                  <p>ชาวบ้านเรียกว่า ผาสามเงา เพราะเป็นที่เชิงเขาริมหน้าผานั้นเจาะเป็นช่องลึกเข้าไปในเนื้อภูเขาเรียงกัน 3 ช่อง 
+                  ประดิษฐานพระพุทธรูปปิดทองช่องละองค์ มีบันไดไม้ให้นักท่องเที่ยวขึ้นไปนมัสการพระพุทธรูปได้ จากตำนานที่เล่าสืบต่อกันมาว่า
+                   เมื่อประมาณปี พ.ศ.1206 มีพระฤาษีสององค์สร้างเมืองหริภุญชัย (ลำพูน) และให้คนมาทูลเชิญราชวงศ์กษัตริย์จากเมืองละโว้หรือลพบุรีในปัจจุบัน 
+                   ไปครองเมืองหริภุญชัย พระนางจามเทวี ได้รับมอบหมายให้ไปครองเมืองตามคำเชิญ พระนางจึงเสด็จมาทางชลมารค......
+                  </p>
+                  <hr>
+                </div>
+              </div>
+        </div>
+      </a>
+    </div>
 </div>
