@@ -27,7 +27,7 @@
         </div>
     </div>
 
-    <!-- <div class="row">
+    <div class="row">
         <div class="col-12">
             <div class="row" align="center">
                 <div class="col">
@@ -102,6 +102,6 @@
     <br>
     <h3>แผนที่การเดินทางระหว่าง <u>ศาลสมเด็จพระเจ้าตากสินมหาราช </u> กับ <u>กาดนั่งยองคลองย่าม</u> </h3>
     <br>
-    <img src="img/muangtak.png" alt="" width="90%" style="margin-bottom: 2em;"> -->
+    <img src="img/muangtak.png" alt="" width="90%" style="margin-bottom: 2em;">
 </div>
   
